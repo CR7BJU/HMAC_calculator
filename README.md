@@ -20,4 +20,4 @@ To use this calculator, follow these steps:
 
         gcc -o sha224 sha224.c -I/usr/include -lssl -lcrypto
 
-Please ensure that you have OpenSSL version 3.0 or a more recent version installed to use this calculator effectively.
+Please ensure that you have OpenSSL version 3.0 or above versions installed to use this calculator effectively.
