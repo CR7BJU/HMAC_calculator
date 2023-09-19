@@ -16,7 +16,7 @@ To use this calculator, follow these steps:
    
         cd "/path/to/folder/"
    
-4. Compile the source code using GCC with the required OpenSSL library:
+3. Compile the source code using GCC with the required OpenSSL library:
 
         gcc -o sha224 sha224.c -I/usr/include -lssl -lcrypto
 
