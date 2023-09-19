@@ -3,7 +3,7 @@
 Description
 -----------
 
-Simple hash function SHA224 calculator using [OpenSSL](https://www.openssl.org/docs/manmaster/man3/SHA256.html) library. SHA224_Init() and others are deprecated in newer versions of OpenSSL (3.0 and above). This calculator uses Message Digest Functions (EVP) instead of Secure Hash Algorithm functions (SHA). This small project is intended to be integrated into satellite firmware.
+Simple hash function SHA224 calculator using [OpenSSL](https://www.openssl.org/docs/manmaster/man3/SHA256.html) library. SHA224_Init() and others are deprecated in newer versions of OpenSSL (3.0 and above). This calculator uses Message Digest Functions (EVP) instead of Secure Hash Algorithm functions (SHA). This small project is intended to be integrated into cubesat firmware.
 
 How to run
 ----------
