@@ -12,8 +12,7 @@ To use this calculator, follow these steps:
 
 1. Clone this repository to your desired folder using the following command:
 
-        git clone git://git.openssl.org/openssl.git
-
+        git clone https://github.com/CR7BJU/HMAC_calculator.git
 2. Navigate to the folder where you cloned the repository:
    
         cd "/path/to/folder/"
