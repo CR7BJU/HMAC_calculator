@@ -6,8 +6,8 @@ Simple hash function SHA224 calculator using [OpenSSL](https://www.openssl.org/d
 
 ****How to run****
 
-Copy this repo to a folder and run the following command: 
- 
- -- cd "/path/to/folder/" gcc -o sha224 sha224.c -I/usr/include -lssl -lcrypto
+To use this calculator, follow these steps:
+
+    1.Clone this repository to your desired folder using the following command:
 
 Make sure you have the OpenSSL 3.0 (or above) version.
