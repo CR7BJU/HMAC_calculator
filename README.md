@@ -8,6 +8,11 @@ Simple hash function SHA224 calculator using [OpenSSL](https://www.openssl.org/d
 
 To use this calculator, follow these steps:
 
-    1.Clone this repository to your desired folder using the following command:
+1. Clone this repository to your desired folder using the following command:
+
+    git clone git://git.openssl.org/openssl.git
+
+2. Navigate to the folder where you cloned the repository:
+
 
 Make sure you have the OpenSSL 3.0 (or above) version.
