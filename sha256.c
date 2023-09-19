@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
-#include <hmac.h>
+#include <openssl/hmac.h>
 
 int main() {
-    const char *key = "top-secret"; // Substitua pela sua chave secreta
+    const char *key = "top-secret"; 
     const char *data = "ESTCube";
 
     unsigned char digest[EVP_MAX_MD_SIZE];
