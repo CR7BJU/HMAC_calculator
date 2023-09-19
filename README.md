@@ -1,2 +1,2 @@
 # HMAC_calculator
-Simple hash functions calculator
+Simple hash function sha224 calculator
