@@ -4,7 +4,7 @@
 
 int main() {
     const char *data = "ESTCube";
-    const EVP_MD *md = EVP_sha224(); // Use the SHA-224 algorithm. SHA-2 hash functions deprecated.
+    const EVP_MD *md = EVP_sha224(); // SHA-224 algorithm. SHA-2 hash functions deprecated.
 
     if (!md) {
         printf("Erro: Algoritmo não encontrado.\n");
