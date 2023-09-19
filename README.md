@@ -10,9 +10,14 @@ To use this calculator, follow these steps:
 
 1. Clone this repository to your desired folder using the following command:
 
-    git clone git://git.openssl.org/openssl.git
+        git clone git://git.openssl.org/openssl.git
 
 2. Navigate to the folder where you cloned the repository:
+   
+        cd "/path/to/folder/"
+   
+4. Compile the source code using GCC with the required OpenSSL library:
 
+        gcc -o sha224 sha224.c -I/usr/include -lssl -lcrypto
 
-Make sure you have the OpenSSL 3.0 (or above) version.
+Please ensure that you have OpenSSL version 3.0 or a more recent version installed to use this calculator effectively.
