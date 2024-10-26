@@ -157,8 +157,11 @@
         <mxCell id="dvIQoBZ7N12mjhmRUmld-603" value="Client tier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="153" y="620" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dvIQoBZ7N12mjhmRUmld-604" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="525" y="618" width="50" height="30" as="geometry" />
+        <mxCell id="dvIQoBZ7N12mjhmRUmld-604" value="&lt;div&gt;Web tier&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="515" y="618" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dvIQoBZ7N12mjhmRUmld-605" value="Data tier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="840" y="618" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
