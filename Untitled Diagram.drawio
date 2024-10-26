@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="329.5" y="100" width="620.5" height="500" as="geometry" />
+          <mxGeometry x="329.5" y="90" width="620.5" height="500" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Architecture: Bus Management System" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="40" width="849.5" height="40" as="geometry" />
@@ -145,12 +145,12 @@
             <mxPoint x="721" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dvIQoBZ7N12mjhmRUmld-601" style="edgeStyle=elbowEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startArrow=blockThin;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;" edge="1" parent="1">
+        <mxCell id="dvIQoBZ7N12mjhmRUmld-601" style="edgeStyle=elbowEdgeStyle;rounded=0;elbow=vertical;html=1;labelBackgroundColor=none;startArrow=blockThin;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;exitX=0.003;exitY=0.817;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uoHBkqAiXrJTnw-RRtxm-620" target="uoHBkqAiXrJTnw-RRtxm-616">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="217" as="sourcePoint" />
-            <mxPoint x="530" y="510" as="targetPoint" />
+            <mxPoint x="530" y="357" as="sourcePoint" />
+            <mxPoint x="530" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="216.5" />
+              <mxPoint x="520" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
