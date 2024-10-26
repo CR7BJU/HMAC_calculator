@@ -90,17 +90,6 @@
         <mxCell id="f3wMCokSAhAHXj3sc1L6-595" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" parent="1" vertex="1">
           <mxGeometry x="722.04" y="527.5" width="57.96" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="f3wMCokSAhAHXj3sc1L6-596" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="360" y="476.5" width="51.83" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f3wMCokSAhAHXj3sc1L6-597" value="Ansible" style="shape=rect;fillColor=#EE5396;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="430" y="474" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="f3wMCokSAhAHXj3sc1L6-598" value="" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.logo--ansible-community" parent="f3wMCokSAhAHXj3sc1L6-597" vertex="1">
-          <mxGeometry width="24" height="24" relative="1" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dvIQoBZ7N12mjhmRUmld-588" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="280" y="360" as="sourcePoint" />
